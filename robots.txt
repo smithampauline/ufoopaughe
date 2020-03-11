@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zedujeevah.ivan.cx/sitemap.xml
